@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "EEGAN": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
